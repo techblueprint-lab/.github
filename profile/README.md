@@ -2,25 +2,27 @@
   <img src="https://raw.githubusercontent.com/techblueprint-lab/.github/main/assets/techblueprint_facebook_cover_1640x624.png" alt="TechBlueprint Banner" width="100%" />
 </p>
 
-# TechBlueprint (`@techblueprint-lab`)
+# Hi, welcome to TechBlueprint (`@techblueprint-lab`) 👋
 
-> *Our circuit-and-gear blueprint brain unites Artificial Intelligence, practical hardware engineering, and step-by-step tech blueprints anyone can build.*
+This is where I build and share **practical tech projects from scratch** — keeping the code clean, runnable, and easy to understand.
 
-**1 practical tech project every day + 1 full Monthly Capstone build** — all open-source, beginner-friendly, and backed by real datasets, wiring diagrams, and clean code.
+Right now, I'm focused mainly on **Machine Learning with Python** — taking real datasets, breaking down how models actually work, and showing practical lessons you can use in real projects (not just textbook theory). Next up, I'll also be expanding into **Arduino & Raspberry Pi hardware builds**, along with **one bigger end-to-end Capstone project every month**.
 
----
-
-## Our Blueprint Repositories
-
-| Repository | Pillar | What You'll Find |
-| :--- | :---: | :--- |
-| [**`ml-blueprints`**](https://github.com/techblueprint-lab/ml-blueprints) | 🧠 **AI & ML** | Daily Kaggle/open-dataset Python ML projects — Classification, Clustering, NLP, Anomaly Detection, Diagnostics & Regression |
-| [**`arduino-blueprints`**](https://github.com/techblueprint-lab/arduino-blueprints) | ⚡ **Arduino & ESP32** | Microcontroller prototypes with clean `.ino` firmware, parts lists (BOM) & pin wiring diagrams |
-| [**`raspberry-pi-blueprints`**](https://github.com/techblueprint-lab/raspberry-pi-blueprints) | 🍓 **Raspberry Pi & Boards** | Edge AI builds, mini-servers, GPIO automation & dev-board comparisons |
-| [**`monthly-capstones`**](https://github.com/techblueprint-lab/monthly-capstones) | 🏆 **Monthly Capstones** | Bigger end-to-end showcase projects combining multi-model ML, dashboards & IoT hardware |
+Everything here is free and open-source — feel free to clone the code, experiment with it, or use it to build your own portfolio.
 
 ---
 
-### Follow `@techblueprint-lab`
-- **YouTube · Facebook · TikTok · LinkedIn**: `@techblueprint-lab`
-- ⭐ Star any repository to follow along with daily blueprints!
+## Repositories
+
+| Repository | Focus | What's Inside |
+| :--- | :--- | :--- |
+| [**`ml-blueprints`**](https://github.com/techblueprint-lab/ml-blueprints) | 🧠 **Machine Learning *(Main Focus)*** | Daily Python ML projects using real datasets — Classification, Clustering, NLP, Anomaly Detection, ML Traps & Regression |
+| [**`arduino-blueprints`**](https://github.com/techblueprint-lab/arduino-blueprints) | ⚡ **Arduino & ESP32 *(Coming Next)*** | Practical sensor & IoT prototypes with `.ino` code, parts lists, and simple wiring diagrams |
+| [**`raspberry-pi-blueprints`**](https://github.com/techblueprint-lab/raspberry-pi-blueprints) | 🍓 **Raspberry Pi *(Coming Next)*** | Edge AI builds, mini-servers, GPIO automation & dev-board guides |
+| [**`monthly-capstones`**](https://github.com/techblueprint-lab/monthly-capstones) | 🏆 **Monthly Capstones** | Bigger end-to-end projects built once a month combining ML pipelines, apps & hardware |
+
+---
+
+### Follow Along
+- Follow **`@techblueprint-lab`** on **YouTube, Facebook, TikTok & LinkedIn** for short visual walkthroughs of every project here.
+- ⭐ Star any repo if you find the code useful!
